@@ -1,0 +1,2 @@
+# password_manager
+This is a simple but effective password manager made in python ( CUI ). You can simply make a strong password and this program will store your password in a text file, which will be present in your local machine. You can later access your password with the specific phrase name or some thing which you added along with your password as a security key. ** I hope you will like this programe.
